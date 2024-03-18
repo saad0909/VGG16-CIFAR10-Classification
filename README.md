@@ -1,6 +1,6 @@
 # VGG16-CIFAR10-Classification
 
-[model link](https://drive.google.com/file/d/1d3M4lseknCs2Ivw3qTz26a89pa2ocsVB/view?usp=drive_link)
+[Model link](https://drive.google.com/file/d/1d3M4lseknCs2Ivw3qTz26a89pa2ocsVB/view?usp=drive_link)
 
 ## Model Performance
 Training Accuracy: 0.9680518507957458
